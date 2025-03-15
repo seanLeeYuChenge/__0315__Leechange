@@ -5,3 +5,5 @@
 ## 第一堂課影片
 
 https://www.youtube.com/watch?v=5IqD5F7SKuk
+
+https://www.youtube.com/watch?v=WK1Yqc0Tz5M
