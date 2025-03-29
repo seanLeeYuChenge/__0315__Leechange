@@ -16,3 +16,9 @@ https://www.youtube.com/watch?v=WK1Yqc0Tz5M
 https://www.youtube.com/watch?v=DKVUrurxFYk
 
 https://www.youtube.com/watch?v=IuN0aJPuzRo
+
+## 第三堂課影片
+
+https://www.youtube.com/watch?v=sHN3QWXbrBs
+
+https://www.youtube.com/watch?v=H3UmK6Ps898
