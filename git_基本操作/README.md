@@ -57,14 +57,16 @@
 
 ## ✅ 常用 Git 分支指令
 
-功能	       指令
-查看目前分支  	git branch
-建立新分支	    git branch [分支名稱]
-切換分支	    git checkout [分支名稱]
-建立並切換	    git checkout -b [分支名稱]
-合併分支	    git merge [分支名稱]
-刪除分支	    git branch -d [分支名稱]
-查看遠端分支	 git branch -r
+| 功能           | 指令                               |
+|----------------|------------------------------------|
+| 查看目前分支   | `git branch`                       |
+| 建立新分支     | `git branch [分支名稱]`             |
+| 切換分支       | `git checkout [分支名稱]`           |
+| 建立並切換分支 | `git checkout -b [分支名稱]`        |
+| 合併分支       | `git merge [分支名稱]`              |
+| 刪除分支       | `git branch -d [分支名稱]`          |
+| 查看遠端分支   | `git branch -r`                    |
+
 
 ## ✅ 基本語法：強制上傳
 
