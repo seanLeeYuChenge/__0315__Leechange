@@ -7,14 +7,14 @@
 
 ## 📂 專案操作
 
-1.git clone [URL]   
+1. git clone [URL]   
 
 ## 📦版本控制操作
 
-1.git status                  # 查看目前狀態
-1.git add [檔名]              # 加入暫存區
-1.git add .                   # 加入所有變更的檔案
-1.git commit -m "訊息"        # 提交變更並加上說明
+1. git status                  # 查看目前狀態
+1. git add [檔名]              # 加入暫存區
+1. git add .                   # 加入所有變更的檔案
+1. git commit -m "訊息"        # 提交變更並加上說明
 
 ## 📜查看紀錄與差異
 
