@@ -74,16 +74,22 @@
    ```bash
    git checkout -b feature/login
 2. **回到主分支（通常是 main 或 master）**
+    ```bash
     git checkout main
 3. **合併 feature/login 到主分支**
+    ```bash
     git merge feature/login
 4. **刪除已合併的分支**
+    ```bash
     git branch -d feature/login
 5. **回到主分支（通常是 main 或 master）**
+    ```bash
     git checkout main
 6. **合併 feature/login 到主分支**
+    ```bash
     git merge feature/login
 7. **刪除已合併的分支**
+    ```bash
     git branch -d feature/login
 
 ## 📤 分支上傳步驟
