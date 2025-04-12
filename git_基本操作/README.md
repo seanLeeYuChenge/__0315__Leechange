@@ -1,5 +1,5 @@
 ## 🔧Git 初始化與設定
-
+```bash
 1. git init                     # 初始化一個新的 Git 倉庫
 1. git config --global user.name "你的名字"
 1. git config --global user.email "你的信箱"
