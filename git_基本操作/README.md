@@ -102,5 +102,7 @@
 - ⚠️ 警告先來：
 - ⚠️ 會覆蓋遠端內容，其他人共同開發時請先溝通！
 - ⚠️ 用錯了可能導致 其他人的 commit 消失！
-git rebase -i HEAD~3  # 修改歷史紀錄
-git push --force
+
+```bash
+git rebase -i HEAD~3  # 修改最近 3 次 commit 的歷史紀錄
+git push --force      # 強制推送到遠端（⚠ 小心使用）
