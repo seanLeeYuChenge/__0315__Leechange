@@ -46,3 +46,11 @@
 1. git push -u origin master   # 第一次推送
 1. git push                    # 推送到遠端
 1. git pull                    # 從遠端拉取並合併更新
+
+
+## 1. Git基本操作
+- 創建代碼庫 (git init)
+- 檔案追蹤 (git add)
+- 提交更改 (git commit)  git commit -m "提交名稱"
+- 查看狀態 (git status)
+- 查看歷史紀錄(git log)
