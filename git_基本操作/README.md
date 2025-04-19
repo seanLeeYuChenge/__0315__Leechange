@@ -4,8 +4,11 @@
     git config --global user.name "你的名字"
     git config --global user.email "你的信箱"
     git config --list           # 檢查目前 Git 設定
+
+'''
 @@gh@@p_1LgqObWn60YXJ
 HodKxVqRka2@@TQp9PW1Ggwqn@@
+'''
 2. **📂 專案操作**
     ```bash
     git clone [URL]   
