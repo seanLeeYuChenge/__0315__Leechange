@@ -113,3 +113,16 @@
 ```bash
 git rebase -i HEAD~3  # 修改最近 3 次 commit 的歷史紀錄
 git push --force      # 強制推送到遠端（⚠ 小心使用）
+
+按setting
+![](image.png)
+按Developer Settings
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+建立時勾選 repo 權限
+![alt text](image-5.png)
+使用 Token 的時候：
+當 Git 問你帳號 → 輸入你的 GitHub 使用者名稱
+當 Git 問你密碼 → 輸入剛剛生成的 Token
