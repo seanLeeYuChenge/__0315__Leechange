@@ -114,7 +114,7 @@
     git rebase -i HEAD~3  # 修改最近 3 次 commit 的歷史紀錄
     git push --force      # 強制推送到遠端（⚠ 小心使用）
 
-# 設定遠端連線
+# 設定遠端HTTPS憑證連線
 ## 按setting
 ![](image.png)
 ## 按Developer Settings
