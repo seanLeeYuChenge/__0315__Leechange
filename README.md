@@ -34,3 +34,9 @@ https://www.youtube.com/watch?v=FUTcjLy062k
 https://www.youtube.com/watch?v=1LMdYOivi1U
 
 https://www.youtube.com/watch?v=NBpa23ymYaU
+
+## 第六堂課影片
+
+https://www.youtube.com/watch?v=58iGmP28Ujs
+
+https://www.youtube.com/watch?v=ahv4bx3GRE8
